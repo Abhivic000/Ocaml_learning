@@ -1,2 +1,4 @@
+(* Day 1 - Basic Syntax and Hello World *)
 
-print_endline "Camels are bae"
+(* Print "Hello, World!" to the console *)
+let () = print_endline "Hello, World!"
